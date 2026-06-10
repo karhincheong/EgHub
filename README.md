@@ -14,16 +14,17 @@ This project is meant to be a try-out project for Fallout. It is to function as 
 
 |Item|Description|Quantity|Unit Price (USD)|Total Price (USD)|URL|Notes|
 |---|---|---|---|---|---|---|
-|Capacitor|0402 1 uF|16|0.0035|0.0560|https://www.lcsc.com/product-detail/C29266.html|"MOQ=100| Actual needed = 40"|
-||0402 100 nF|6|0.0014|0.0084|https://www.lcsc.com/product-detail/C14663.html|"MOQ=100| Actual needed = 15"|
-|Resistor|0603 5.1 kΩ|12|0.0016|0.0192|https://www.lcsc.com/product-detail/C23186.html|"MOQ=100| Actual needed = 30"|
-|USB-A Receptacle||4|0.0665|0.2660|https://www.lcsc.com/product-detail/C668591.html|MOQ=10|
-|USB-C Receptacle||6|0.0741|0.4446|https://www.lcsc.com/product-detail/C2765186.html|"MOQ=20| Actual needed = 15"|
-|CoreChips SL2.1S ||2|0.2849|0.5698|https://www.lcsc.com/product-detail/C2684433.html|MOQ=5|
+|Capacitor|0402 1 uF|16|0.0038|0.380|https://www.lcsc.com/product-detail/C29266.html|MOQ=100|
+||0402 100 nF|16|0.0014|0.14|https://www.lcsc.com/product-detail/C14663.html|MOQ=100|
+|Resistor|0603 5.1 kΩ|12|0.0016|0.16|https://www.lcsc.com/product-detail/C23186.html|MOQ=100|
+|USB-A Receptacle||4|0.0665|0.665|https://www.lcsc.com/product-detail/C668591.html|MOQ=10|
+|USB-C Receptacle||6|0.0741|1.482|https://www.lcsc.com/product-detail/C2765186.html|MOQ=20|
+|CoreChips SL2.1S ||2|0.2849|1.4245|https://www.lcsc.com/product-detail/C2684433.html|MOQ=5|
+|USBLC6-2SC6 ||16|0.154|3.080|https://www.lcsc.com/product-detail/C7519.html|MOQ=20|
 |PCB (JLCPCB) Order||1|2.0000|2.0000|https://www.jlcpcb.com|MOQ=5|
 ||||||||
-|TOTAL (for 2 units)||||3.3640|||
-|Component Cost per Unit||||1.682|||
+|TOTAL (for 2 units)||||9.33|||
+|Component Cost per Unit||||4.67|||
 
 <!-- prettier-ignore-end -->
 

@@ -1,0 +1,8 @@
+"Reference","Qty","Value","DNP","Footprint","Datasheet","LCSC Part"
+"C1,C2,C3,C4,C5,C6,C8,C10","8","1uF","","Capacitor_SMD:C_0402_1005Metric","",""
+"C7,C9,C11,C12,C13,C14,C15,C16","8","100nF","","Capacitor_SMD:C_0402_1005Metric","",""
+"R1,R2,R3,R4,R5,R6","6","5.1K","","Resistor_SMD:R_0603_1608Metric","",""
+"U1","1","SL2.1S","","easyeda2kicad:SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL","https://www.lcsc.com/datasheet/C2684433.pdf","C2684433"
+"U2,U3,U4,U5,U6","5","USBLC6-2SC6","","Package_TO_SOT_SMD:SOT-23-6","https://www.st.com/resource/en/datasheet/usblc6-2.pdf",""
+"USB2,USB6,USB7","3","TYPE-C 16PIN 2MD","","easyeda2kicad:USB-C-SMD_TYPE-C-6PIN-2MD-073","https://www.lcsc.com/datasheet/C2765186.pdf","C2765186"
+"USB5,USB8","2","10.0 QHHTZB6.3","","easyeda2kicad:USB-A-TH_10.0QHHTZB6.3","https://www.lcsc.com/datasheet/C668591.pdf","C668591"
