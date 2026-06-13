@@ -34,6 +34,11 @@ This project is meant to be a try-out project for Fallout. It is to function as 
 | -------- | --------------------------- | ----------- |
 | Shipping | UPS Worldwide Express Saver | 9.24        |
 
+## Assembly Instructions
+
+1. Print out the top and bottom covers using a 3D Printer.
+2. Screw M3 screws into the 3 screw holes to an adequate tightness such that it doesnt damage the USB receptacles. Take note of the postition of the input USB-C.
+
 ## Schematic Diagram
 
 ![Schematics](schematic.png)
@@ -45,6 +50,10 @@ This project is meant to be a try-out project for Fallout. It is to function as 
 ## PCB Render
 
 ![PCB Render](pcb_render_front_side.png)
+
+## Case Render
+
+![Case Render](case_render.png)
 
 ## Project Zine
 
