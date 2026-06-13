@@ -36,6 +36,13 @@ This project is meant to be a try-out project for Fallout. It is to function as 
 
 ## Assembly Instructions
 
+File Structure
+
+| Folder   | Description                                   |
+| -------- | --------------------------------------------- |
+| `kicad/` | Files generated in KiCAD                      |
+| `3d`     | 3D Mechanical Models for the case and the PCB |
+
 1. Print out the top and bottom covers using a 3D Printer.
 2. Screw M3 screws into the 3 screw holes to an adequate tightness such that it doesnt damage the USB receptacles. Take note of the postition of the input USB-C.
 
